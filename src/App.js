@@ -30,8 +30,13 @@ export default function App() {
   };
 
   function flipCard(index) {
+    if (openedCard.includes(index) || matched.includes(pokemons[index].id)) {
+      return;
+    }
+  
     setOpenedCard((opened) => [...opened, index]);
   }
+  
 
   //reset button
   function resetGame() {
