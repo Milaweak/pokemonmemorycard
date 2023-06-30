@@ -23,7 +23,7 @@ export default function App() {
         id: index + 1,
         name: pokemon.name
       }));
-      setPokemons([...fetchedPokemons, ...fetchedPokemons]);
+      setPokemons([...fetchedPokemons, ...fetchedPokemons].sort(() => Math.random() - 0.5));;
     } catch (error) {
       console.log("Error fetching pokemons:", error);
     }
