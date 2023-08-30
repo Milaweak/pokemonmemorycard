@@ -21,3 +21,4 @@ Welcome to the Pokémon Memory Game! Test your memory and see how well you can m
 - API: https://pokeapi.co
 
 Now go ahead and catch 'em all in the Pokémon Memory Game! Have fun!
+You can play it directly here : https://milaweak.github.io/pokemonmemorycard/
