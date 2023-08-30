@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pokemonmemorycard/static/css/main.9ba02fd9.css",
+    "main.js": "/pokemonmemorycard/static/js/main.8160ffa8.js",
+    "index.html": "/pokemonmemorycard/index.html",
+    "main.9ba02fd9.css.map": "/pokemonmemorycard/static/css/main.9ba02fd9.css.map",
+    "main.8160ffa8.js.map": "/pokemonmemorycard/static/js/main.8160ffa8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ba02fd9.css",
+    "static/js/main.8160ffa8.js"
+  ]
+}
